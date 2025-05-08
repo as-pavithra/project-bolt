@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="google-site-verification" content="gpOPtsunhCUMAC0AMakpeapaB7pgCkKD0N38GtUDECI" />
+  <meta name="google-site-verification" content="OuAQcz9Ey6KZ3a4uwxekr5n02GgWX-are5Nx-LyO-Bg" />
   <title>Project Bolt</title>
 </head>
 <body>
